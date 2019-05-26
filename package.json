@@ -1,0 +1,27 @@
+{
+  "name": "node-account-api",
+  "version": "1.0.0",
+  "description": "app-context: `/node-account-api`",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlnet/node-account-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlnet/node-account-api/issues"
+  },
+  "homepage": "https://github.com/dlnet/node-account-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.0",
+    "express-validator": "^5.3.1",
+    "mongodb": "^3.2.6"
+  }
+}
